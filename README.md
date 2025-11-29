@@ -16,4 +16,4 @@
 ![Forge](https://img.shields.io/badge/Minecraft_Forge-202020?style=for-the-badge&logo=minecraft&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpriSan&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SpriSan&theme=tokyonight)
