@@ -14,6 +14,3 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Forge](https://img.shields.io/badge/Minecraft_Forge-202020?style=for-the-badge&logo=minecraft&logoColor=white)
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SpriSan&theme=tokyonight)
