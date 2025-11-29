@@ -1,5 +1,4 @@
 <h1 align="center">hey, doxylamineです。</h1>
-<a align="center" href=https://www.doxylamine.moe/>doxylamine.moe/</a>
 
 #
 
