@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">hey, doxylamineです。</h1>
+<a href=https://www.doxylamine.moe/>doxylamine.moe/</a>
 
-<!--
-**SpriSan/SpriSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently working on [Untitled Touhou Like](https://github.com/SpriSan/Untitled-Touhou-Like) & [Animatronic Nightshift](https://github.com/SpriSan/Animatronic-Nightshift)
+- Aiming to learn C
 
-Here are some ideas to get you started:
+# My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Untitled Touhou Like](https://github.com/SpriSan/Untitled-Touhou-Like), a danmaku shooter engine inspired by Touhou, written in Java
+- [Animatronic Nightshift](https://github.com/SpriSan/Animatronic-Nightshift), a Five Nights at Freddy's mod for Minecraft forge 1.20.1
+
+# Tools
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,vscodium)](https://skillicons.dev)
