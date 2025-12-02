@@ -10,7 +10,7 @@
 
 # Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,vscodium,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,vue,idea,vscodium)](https://skillicons.dev)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Forge](https://img.shields.io/badge/Minecraft_Forge-202020?style=for-the-badge&logo=minecraft&logoColor=white)
