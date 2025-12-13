@@ -5,8 +5,10 @@
 
 # My projects
 
-- [Untitled Touhou Like](https://github.com/SpriSan/Untitled-Touhou-Like), a danmaku shooter engine inspired by Touhou, written in Java
+- [Untitled Touhou Like](https://github.com/SpriSan/Untitled-Touhou-Like), a danmaku shooter engine inspired by Touhou, written in Java (Swing)
 - [Animatronic Nightshift](https://github.com/SpriSan/Animatronic-Nightshift), a Five Nights at Freddy's mod for Minecraft forge 1.20.1
+- [SwingVN](https://github.com/SpriSan/SwingVN), a visual novel engine written in Java (Swing)
+
 
 # Tools
 
